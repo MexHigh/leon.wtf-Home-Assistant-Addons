@@ -1,0 +1,3 @@
+[submodule "one-time-service"]
+	path = one-time-service
+	url = https://git.leon.wtf/leon/one-time-service
